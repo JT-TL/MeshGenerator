@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>ic_arrow-left.jpg</file>
+        <file>ic_arrow-right.jpg</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>coffin dance.gif</file>
+        <file>error.png</file>
+        <file>ic_arrow-left.jpg</file>
+        <file>ic_arrow-right.jpg</file>
+        <file>ic_done.png</file>
+        <file>ic_not_done.png</file>
+        <file>Picture1.png</file>
+        <file>ti_mesh_1.png</file>
+        <file>ti_mesh_2.png</file>
+        <file>ti_mesh_3.png</file>
+        <file>ti_mesh_4.png</file>
+        <file>ti_mesh_5.png</file>
+    </qresource>
+</RCC>

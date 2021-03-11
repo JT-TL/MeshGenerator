@@ -1,0 +1,1 @@
+3-matic -save_log_error trimatic_error.txt -run_script timeshmain.py
